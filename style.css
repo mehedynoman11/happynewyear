@@ -26,6 +26,7 @@ section {
     }
 }
 
+
 body {
     animation: backgroundAnimation 10s infinite;
 }
@@ -37,6 +38,11 @@ body {
 } */
 h1{
     text-align: center;
+}
+
+p{
+    padding: 10px;
+    background-color: rgb(234, 233, 233);
 }
 
 h2{
